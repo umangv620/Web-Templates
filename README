@@ -1,0 +1,10 @@
+/**
+ * README
+ *
+ * Author: Umang Vaish
+ * Email: umangv620@gmail.com
+ **/
+
+Web Templates includes a collection of common code to assist with the development of a website.
+
+mysql.php - The MySQL class allows a connection to be made and managed through PHP
